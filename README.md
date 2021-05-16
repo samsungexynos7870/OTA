@@ -1,0 +1,1 @@
+losota_exynos7870
